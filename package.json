@@ -1,0 +1,22 @@
+{
+    "name": "it-s-a-syntax-theme",
+    "displayName": "It's a Syntax Theme",
+    "description": "It's a Syntax Theme",
+    "version": "0.0.1",
+    "publisher": "jeremiahrhall",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "It's a Syntax Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/It's a Syntax Theme-color-theme.json"
+            }
+        ]
+    }
+}
